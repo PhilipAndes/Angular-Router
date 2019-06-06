@@ -16,7 +16,8 @@ Files: Created src/app/app-routing.module.ts <br>
 Edit: app.module.ts, app.component.html
 
 2. <b>Creating & Mapping Routes</b> <br>
-Files:data.service.ts, users.component.ts
+Created new map: components > home > ts, html, css file. <br>
+Files:app-routing.module.ts, app.module.ts, 
 
 
 ## Development server
