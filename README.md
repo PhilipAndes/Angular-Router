@@ -6,22 +6,21 @@
 
 ## Lessons:
 
-- Notice: uncomment the right part for each lesson!
-
-- Notice: uncomment the right part for each lesson!
-
 1. <b>Create App Routing Module:</b> <br>
 - ng generate module module-name <br>
-Files: Created src/app/app-routing.module.ts <br>
-Edit: app.module.ts, app.component.html
+Files-Created: src/app/app-routing.module.ts <br>
+Files-Edited: app.module.ts, app.component.html
 
 2. <b>Creating & Mapping Routes</b> <br>
-Created new map: components > home > ts, html, css file. <br>
-Files: app-routing.module.ts, app.module.ts
+Created new map: components > home > ts, html, css files. <br>
+Files-Edited: app-routing.module.ts, app.module.ts
 
 3. <b>Linking To Routes</b> <br>
-Files: home.component.html, navbar.component.html 
+Files-Edited: home.component.html, navbar.component.html
 
+4. <b>Params & ActivatedRoute</b> <br>
+Files-Created: components > post > ts, html, css files. <br>
+Files-Edited: post.service.ts, posts.components.html, app.module.ts, app-routing.module.ts 
 
 ## Development server
 
