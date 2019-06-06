@@ -17,7 +17,10 @@ Edit: app.module.ts, app.component.html
 
 2. <b>Creating & Mapping Routes</b> <br>
 Created new map: components > home > ts, html, css file. <br>
-Files:app-routing.module.ts, app.module.ts, 
+Files: app-routing.module.ts, app.module.ts
+
+3. <b>Linking To Routes</b> <br>
+Files: home.component.html, navbar.component.html 
 
 
 ## Development server
