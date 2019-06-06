@@ -22,6 +22,10 @@ Files-Edited: home.component.html, navbar.component.html
 Files-Created: components > post > ts, html, css files. <br>
 Files-Edited: post.service.ts, posts.components.html, app.module.ts, app-routing.module.ts 
 
+5. <b>Not Found Component</b> <br>
+Files-Created: components > not-found > ts, html, css files. <br>
+Files-Edited: post-component.ts, app.module.ts, app-routing.module.ts, post.service.ts 
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
