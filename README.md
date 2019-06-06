@@ -11,9 +11,9 @@
 - Notice: uncomment the right part for each lesson!
 
 1. <b>Create App Routing Module:</b> <br>
-- ng generate module module-name --routing<br>
-Files: Created services-map > data.service.ts <br>
-Edit: users.component.ts
+- ng generate module module-name <br>
+Files: Created src/app/app-routing.module.ts <br>
+Edit: app.module.ts, app.component.html
 
 2. <b>Creating & Mapping Routes</b> <br>
 Files:data.service.ts, users.component.ts
